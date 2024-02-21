@@ -1,0 +1,17 @@
+﻿  ArrivalEvent.cpp
+  Company.cpp
+  LeaveEvent.cpp
+  MBus.cpp
+  Passenger.cpp
+  main.cpp
+  Stations.cpp
+D:\T09\Projectdata\Stations.cpp(321,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\T09\Projectdata\Stations.cpp(321,18): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+D:\T09\Projectdata\Stations.cpp(509,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\T09\Projectdata\Stations.cpp(509,18): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+  Time.cpp
+  UI.cpp
+  WBus.cpp
+  Generating Code...
+D:\T09\Projectdata\LeaveEvent.cpp(45): warning C4715: 'LeaveEvent::excute': not all control paths return a value
+  Projectdata.vcxproj -> D:\T09\x64\Debug\Projectdata.exe
